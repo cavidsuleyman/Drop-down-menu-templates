@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create 2 html and css files about Drop-down-menu-templates. I use here html and css tags. 
 ## ## RULES OF USE
 
-> **STEP-1:** `git clone https://github.com/cavidsuleyman/Form-application-examples.git` <br/>
+> **STEP-1:** `git clone https://github.com/cavidsuleyman/Drop-down-menu-templates.git` <br/>
 > **STEP-2:**  enter the `Drop-down-menu-templates` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`.html` files in the main folder <br/>
